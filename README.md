@@ -1,5 +1,5 @@
-### Hi there my name is Rodrigo Cayro and I'm a computer science student, in Peru 👋
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+![About Me](https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif)
 <!--
 **rodRigocaU/rodRigocaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
