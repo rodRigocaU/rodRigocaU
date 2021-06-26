@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Cayrinsqui 🐸:
+# Hi, I'm Cayrinsqui 🐸
 
 <img align="right" width="400" height="350" src="https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif">
 
