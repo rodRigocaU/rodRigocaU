@@ -1,11 +1,11 @@
 
 ![About Me](https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif)
 
-<img align="right" width="300" height="300" src="https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif">
+<img align="right" width="400" height="350" src="https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif">
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
-- :earth_americas: I'm from Medellin - Colombia
+- :earth_americas: I'm from Arequipa
 - :video_game: I like to play video games
 - :gem: I love to customize everything lol
 
