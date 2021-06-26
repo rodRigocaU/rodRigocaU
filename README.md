@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Rodrigo Cayro and I'm a computer science student, in Peru 👋
 
 <!--
 **rodRigocaU/rodRigocaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
