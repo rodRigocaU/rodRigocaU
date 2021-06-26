@@ -1,9 +1,10 @@
 
-![About Me](https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif)
+
+# Hi, I'm Cayrinsqui 🐸:
 
 <img align="right" width="400" height="350" src="https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif">
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Games | :black_heart: Music | :blue_heart: Programming
 
 - :earth_americas: I'm from Arequipa
 - :video_game: I like to play video games
