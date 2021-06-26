@@ -11,6 +11,21 @@
 - :earth_americas: I'm from Arequipa
 - :video_game: I like to play video games
 
+
+##Work in progress.....
+<div align=center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
+
+</div>
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="rodrigo.cayro@ucsp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
 <!--
 **rodRigocaU/rodRigocaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
