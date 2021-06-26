@@ -1,7 +1,7 @@
 
 ![About Me](https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif)
 
-<img align="right" width="400" height="400" src="https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif">
+<img align="center" width="400" height="400" src="https://github.com/rodRigocaU/rodRigocaU/blob/main/myprofile.gif">
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
