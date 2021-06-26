@@ -21,11 +21,6 @@
 </div>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="rodrigo.cayro@ucsp.edu.pe"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 
 
