@@ -6,7 +6,7 @@
 
 ## About me
 
-:heart: Games | :black_heart: Music | :blue_heart: Programming
+:heart: Develop Games | :black_heart: Music | :blue_heart: Programming
 
 - :earth_americas: I'm from Arequipa
 - :video_game: I like to play video games
