@@ -12,16 +12,6 @@
 - :video_game: I like to play video games
 
 
-## Work in progress.....
-<div align=left>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Problem-Solving&theme=radical)](https://github.com/Itsbeenalongday/Problem-Solving)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsbeenalongday&repo=Web&theme=cobalt)](https://github.com/Itsbeenalongday/Web)
-
-</div>
-
-
-
 
 
 
